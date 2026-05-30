@@ -1,19 +1,10 @@
 # Personal Testing Webpage
 
-A simple personal testing environment for experimenting with HTML, CSS, JavaScript, layouts, components, and web development ideas.
+A simple personal testing environment - you supply the material - you control the progress.
 
 ## Purpose
 
-This project exists as a free sandbox for learning, testing, breaking things, fixing things, and exploring new concepts without worrying about production requirements.
-
-Whether you're:
-
-- Learning web development
-- Practicing CSS layouts
-- Testing JavaScript functionality
-- Experimenting with UI/UX ideas
-- Building quick prototypes
-- Following tutorials
+This project exists as a free testing simulation you control.
 
 You are free to use this project as your own testing ground.
 
