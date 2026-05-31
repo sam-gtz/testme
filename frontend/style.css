@@ -1,3 +1,57 @@
 /* starting out the layout form the notepad requirements */
 
+.details-menu {
 
+}
+
+.detail-item {
+
+}
+
+.detail-title, .detail-title > div {
+
+}
+
+.detail-title i {
+
+}
+
+.detail-title > div i {
+
+}
+
+.detail-btn {
+
+}
+
+.details {
+
+}
+
+.details > div {
+
+}
+
+.details p {
+
+}
+
+.details p:not(.details p:last-child) {
+
+}
+
+.details-open {
+
+}
+
+.details-open > div {
+
+}
+
+.detail-item-active {
+
+}
+
+.detail-item-active .detail-title i {
+
+}
