@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "@graphql-tools/merge": "^9.1.9",
+    "bcryptjs": "^3.0.3",
+    "connect-mongodb-session": "^5.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "graphql": "^16.14.1",
+    "graphql-passport": "^0.6.8",
+    "mongoose": "^8.24.0",
+    "passport": "^0.7.0"
+  }
+}
