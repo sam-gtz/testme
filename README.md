@@ -1,6 +1,6 @@
 # Personal Testing Webpage
 
-A simple personal testing environment - you supply the material - you control the progress.
+A simple personal testing(quiz) environment - you supply the material - you control the progress.
 
 ## Purpose
 
